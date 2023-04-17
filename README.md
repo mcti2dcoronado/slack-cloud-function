@@ -2,4 +2,4 @@
 Setup a GitHub Webhook
 
 Testing Slack channel 
-Anything
+New Channel should work !!!
